@@ -1,0 +1,11 @@
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\bin\Debug\ITI Windows Forms App.exe.config
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\bin\Debug\ITI Windows Forms App.exe
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\bin\Debug\ITI Windows Forms App.pdb
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.csproj.AssemblyReference.cache
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.csproj.SuggestedBindingRedirects.cache
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI_Windows_Forms_App.Form1.resources
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI_Windows_Forms_App.Properties.Resources.resources
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.csproj.GenerateResource.cache
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.csproj.CoreCompileInputs.cache
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.exe
+E:\Projects\My\ITI Windows Forms App\ITI Windows Forms App\obj\Debug\ITI Windows Forms App.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI Windows Forms App", "ITI Windows Forms App\ITI Windows Forms App.csproj", "{F193FE73-9623-44CC-9187-FB2314D13391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F193FE73-9623-44CC-9187-FB2314D13391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F193FE73-9623-44CC-9187-FB2314D13391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F193FE73-9623-44CC-9187-FB2314D13391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F193FE73-9623-44CC-9187-FB2314D13391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CCAF88B-03C1-4F84-95ED-DD030765C76B}
+	EndGlobalSection
+EndGlobal
